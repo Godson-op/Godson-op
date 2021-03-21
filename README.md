@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Godson-op
+- 👀 I’m interested in learning, research
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on creative projects
+- 📫 How to reach me https://discord.io/GODSON

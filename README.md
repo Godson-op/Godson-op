@@ -32,26 +32,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=godson-op&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=godson-op&theme=tokyonight" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=godson-op&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-### 🎯 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=godson-op&theme=react-dark" alt="Activity Graph" />
-</p>
-
----
-
 ### 🎉 Fun Fact
 
 ![Joke](https://readme-jokes.vercel.app/api)
